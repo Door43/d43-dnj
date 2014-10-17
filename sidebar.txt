@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dnj:home|Door43 (dnj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dnj|d43-dnj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dnj/archive/master.zip|d43-dnj.zip]]
+
+**Recent Changes**
+{{changes>ns = dnj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dnj|Ethnologue data]]
+
